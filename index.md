@@ -1,0 +1,1 @@
+permalink: /idex.html
